@@ -1,3 +1,13 @@
+---
+title: "Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline"
+authors: "Zangwei Zheng, ..., Yang You"
+affiliation: "NUS/Huawei"
+conf: None
+year: None
+url: "https://arxiv.org/pdf/2305.13144.pdf"
+
+---
+
 * Our approach begins by tapping into the potential of LLMs to accurately perceive and predict the response length with minimal overhead
 * Problem: when performing LLM inference in batches, the inclusion of sequences with differing response lengths leads to inefficiencies.
     * When instructions with highly disparate response lengths are batched together, significant and redundant computations occurs, resulting in reduced inference throughput

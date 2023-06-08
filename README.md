@@ -8,4 +8,9 @@
 
 **Distributed Inference Systems**
 * ORCA: A Distributed Serving System for Transformer-Based Generative Models (OSDI'22) [[paper](https://www.usenix.org/system/files/osdi22-yu.pdf) | [review](reviews/orca.md)]
+
+**Model Parallelism**
+* Beta: Statistical Multiplexing with Model Parallelism for Deep Learning Serving [[paper]() | [review](reviews/beta.md)]
+
+**Parallel DL training systems**
 * Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (OSDI'22) [[paper](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf) | [review](reviews/alpa.md)]

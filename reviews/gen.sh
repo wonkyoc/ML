@@ -1,11 +1,11 @@
 #!/bin/bash
 
 content="
----
-\ntitle: 
+---\ntitle: 
 \nauthors:
 \naffiliation:  
 \nconf:     
+\nyear:
 \nurl:
 \n---
 \n"

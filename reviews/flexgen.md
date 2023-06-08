@@ -1,4 +1,11 @@
-## High-throughput Generative Inference of Large Language Models with a Single GPU
+---
+title: "High-throughput Generative Inference of Large Language Models with a Single GPU"
+authors: "Ying Sheng, ..., Ion Stoica, Ce Zhang"
+affiliation: "ETH Zurich/UC Berkeley"
+conf: ICML
+year: 2023
+url: 
+---
 
 
 Contribution
