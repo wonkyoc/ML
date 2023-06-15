@@ -1,5 +1,8 @@
 # A journey of learning ML
 
+## Tutorials
+* [Deep Learning With Pytorch: A 60 min blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 ## Videos
 **General**
 * [But what is a neural network? | Chapter 1, Deep learning](https://youtu.be/aircAruvnKk)
@@ -22,6 +25,8 @@
 ### LLM
 **A technique for accelerating LLM inference**
 * Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline (arxiv) [[paper](https://arxiv.org/abs/2305.13144) | [review](reviews/sequence-scheduling.md)]
+* OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization (ISCA'23) [[paper](https://horizon-lab.org/pubs/isca23-olive.pdf)]
+
 
 **Offloading to utilize memory from CPU and disk**
 * FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU (ICML'23) [[paper](https://arxiv.org/abs/2303.06865) | [review](reviews/flexgen.md)]
@@ -34,3 +39,7 @@
 
 **Parallel DL training systems**
 * Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (OSDI'22) [[paper](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf) | [review](reviews/alpa.md)]
+
+
+### Speech
+* [The History of Speech Recognition to the Year 2030](https://arxiv.org/abs/2108.00084)
